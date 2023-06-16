@@ -13,6 +13,13 @@ export default function Home() {
       <h1>Home Page brh</h1>
       <p>
         <Link href="/users">Users</Link>
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site:id" content="1467726470533754880" />
+        <meta name="twitter:creator" content="@nextjs" />
+        <meta name="twitter:creator:id" content="1467726470533754880" />
+        <meta name="twitter:title" content="Next.js" />
+        <meta name="twitter:description" content="The React Framework for the Web" />
+        <meta name="twitter:image" content="https://ibb.co/kDSx379" />
         <Image
       src={mg}
       width={500}
