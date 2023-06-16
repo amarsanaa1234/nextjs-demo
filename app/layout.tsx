@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     siteId: '1467726470533754880',
     creator: '@nextjs',
     creatorId: '1467726470533754880',
-    images: ['https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FFindingNemoNemo%2F&psig=AOvVaw1mHZ1mD3FHFnGgEY8asSW9&ust=1686982131913000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjH-KSQx_8CFQAAAAAdAAAAABAJ'],
+    images: ['../public/images/php.png'],
   },
 }
 
