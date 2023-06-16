@@ -8,7 +8,25 @@ export const metadata: Metadata = {
   description: 'turuu: uuuhuuuuu, amaraa: uuyaa ',
   themeColor: 'black',
   openGraph: {
-    images: '/php.png',
+    title: 'Next.js',
+    description: 'The React Framework for the Web',
+    url: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FFindingNemoNemo%2F&psig=AOvVaw0QMNM-nw6iBpa__ATc9GIS&ust=1686984185364000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDAiPiXx_8CFQAAAAAdAAAAABAE',
+    siteName: 'Next.js',
+    images: [
+      {
+        url: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FFindingNemoNemo%2F&psig=AOvVaw0QMNM-nw6iBpa__ATc9GIS&ust=1686984185364000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDAiPiXx_8CFQAAAAAdAAAAABAE',
+        width: 800,
+        height: 600,
+      },
+      {
+        url: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FFindingNemoNemo%2F&psig=AOvVaw0QMNM-nw6iBpa__ATc9GIS&ust=1686984185364000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDAiPiXx_8CFQAAAAAdAAAAABAE',
+        width: 1800,
+        height: 1600,
+        alt: 'My custom alt',
+      },
+    ],
+    locale: 'en_US',
+    type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
