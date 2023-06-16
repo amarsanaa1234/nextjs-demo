@@ -4,7 +4,7 @@ import { Inter } from 'next/font/google'
 import mg from '../public/images/php.png'
 const inter = Inter({ subsets: ['latin'] })
 
-export const metadata: Metadata = {
+export const metadata = {
   title: 'amaraa in the house',
   description: 'turuu: uuuhuuuuu, amaraa: uuyaa ',
   themeColor: 'black',
